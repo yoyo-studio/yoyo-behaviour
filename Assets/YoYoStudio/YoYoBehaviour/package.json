@@ -1,0 +1,23 @@
+{
+  "name": "com.yoyo-studio.behaviour",
+  "displayName": "YoYoBehaviour",
+  "version": "1.0.2",
+  "description": "Base Behaviour For Studio's MonoBehaviour Classes",
+  "unity": "2018.3",
+  "license": "MIT",
+  "author": {
+    "name": "YoYo Studio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadegh-askari/openjuice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sadegh-askari/openjuice/issues"
+  },
+  "homepage": "https://github.com/sadegh-askari/openjuice#readme",
+
+  "dependencies": {},
+  "keywords": [],
+  "samples": []
+}

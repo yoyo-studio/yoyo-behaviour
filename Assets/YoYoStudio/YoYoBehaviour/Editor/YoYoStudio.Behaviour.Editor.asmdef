@@ -1,0 +1,15 @@
+{
+    "name": "YoYoStudio.Behaviour.Editor",
+    "references": [
+        "GUID:dfcf8c77727cbaf42b7e1cb4372c1c43"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
